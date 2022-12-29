@@ -1,4 +1,4 @@
-# TD3_[Ant_v4](https://www.gymlibrary.dev/environments/mujoco/ant/)
+# TD3 for [Ant_v4](https://www.gymlibrary.dev/environments/mujoco/ant/)
 
 The ant is a 3D robot with four legs and each leg has two links. The goal is to coordinate the four legs to go forward by applying torques on the eight hinges connecting the two links of each leg and the torso. this environment is in Gym library and its part of the [Mujoco environments](https://www.gymlibrary.dev/environments/mujoco/).
 
